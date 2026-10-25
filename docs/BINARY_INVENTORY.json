@@ -1,0 +1,30 @@
+[
+  {
+    "path": "SteamWorldHeist/runtime/box64-box32",
+    "sha256": "11cd3a17cb59356d3bd1ee50a9843c1118add8a5013876969aee74bfbe3fae45",
+    "size": 35064752,
+    "elf_class": 2,
+    "machine": 183
+  },
+  {
+    "path": "SteamWorldHeist/runtime/gl4es/libGL.so.1",
+    "sha256": "9bc7e7eb2a9a66f5889d7eb00e052539f409b301a11064e6185469aef72beded",
+    "size": 1885288,
+    "elf_class": 2,
+    "machine": 183
+  },
+  {
+    "path": "SteamWorldHeist/runtime/libs.x86/libheist_glx_compat.so",
+    "sha256": "27ab708f7c9042d9b11a514e57f1086408217059cf8a391f40920327fd4ce7f4",
+    "size": 14112,
+    "elf_class": 1,
+    "machine": 3
+  },
+  {
+    "path": "SteamWorldHeist/runtime/libs.x86/libheist_sdl_bridge.so",
+    "sha256": "2ad51dd0830f7ef666eb2fa7e027e47419edcc9362b9551983c75a0b3d9d348f",
+    "size": 83008,
+    "elf_class": 1,
+    "machine": 3
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "id": "heist",
+  "title": "SteamWorld Heist",
+  "folder": "SteamWorldHeist",
+  "executable": "Heist",
+  "assets": "Bundle",
+  "elf_class": 1,
+  "machine": 3,
+  "debian_arch": "i386",
+  "libs_dir": "libs.x86",
+  "sha256": "cb9009ac77b685865f9bb9fc1797bb4cf638f36f6bd029e8cfde91d15b04c2ac",
+  "version": "3.0"
+}

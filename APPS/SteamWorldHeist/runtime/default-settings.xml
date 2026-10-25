@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Settings>
+  <Setting Key="Screen.Fullscreen" Value="1" />
+  <Setting Key="Screen.WindowSize" Value="640;480" />
+  <Setting Key="Screen.Borderless" Value="0" />
+  <Setting Key="Screen.WindowResizable" Value="0" />
+  <Setting Key="System.MaxFramesPerSecond" Value="60" />
+  <Setting Key="Language.Custom" Value="en" />
+  <Setting Key="Language.Fallback" Value="en" />
+</Settings>
